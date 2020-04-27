@@ -36,11 +36,13 @@ return array(
 			"controllers",
 			"cache",
 			"rest",
-			"config"
+			"config",
+			"models"
 			),
 	"part2"=>array(
 			"composer",
 			"git",
-			"seo"
+			"seo",
+			"logs"
 			)
 	);
