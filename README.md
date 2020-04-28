@@ -42,4 +42,4 @@ Specify what it takes to deploy your app.
 * [Guide](http://micro-framework.readthedocs.io/en/latest/?badge=latest)
 * [Doc API](https://api.kobject.net/ubiquity/)
 * [Twig documentation](https://twig.symfony.com)
-* [Semantic-UI](https://semantic-ui.com)
+* [Semantic-UI](https://fomantic-ui.com)
