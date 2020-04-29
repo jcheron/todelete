@@ -48,6 +48,8 @@ return array(
 	"git-macros"=>array(
 			"Status"=>"git status",
 			"commit & push"=>"git+add+.%0Agit+commit+-m+%22message%22%0Agit+pull%0A",
-			"checkout"=>"git checkout "
+			"checkout"=>"git checkout ",
+			"remove file from remote repository"=>"git+rm+--cached+%3Cfilename%3E%0Agit+commit+-m+%22Removed+file+from+repository%22%0Agit+push",
+			"remove folder from remote repository"=>"git+rm+--cached+-r+%3Cdir_name%3E%0Agit+commit+-m+%22Removed+folder+from+repository%22%0Agit+push"
 			)
 	);
