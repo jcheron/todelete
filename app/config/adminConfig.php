@@ -44,5 +44,10 @@ return array(
 			"git",
 			"seo",
 			"logs"
+			),
+	"git-macros"=>array(
+			"Status"=>"git status",
+			"commit & push"=>"git+add+.%0Agit+commit+-m+%22message%22%0Agit+pull%0A",
+			"checkout"=>"git checkout "
 			)
 	);
